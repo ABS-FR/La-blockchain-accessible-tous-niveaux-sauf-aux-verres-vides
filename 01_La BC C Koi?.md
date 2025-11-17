@@ -82,5 +82,5 @@ Bref, posséder ces cryptos sur un échange centralisé, n'est pas une très bon
 **Not Your Key, Not Your Wallet !**
 
 Voilà CT le premier cours Blockchain BC qui te donne de bonnes bases de départ.
-Pose des questions en commentaire, si ce n'est pas totalement clair ou sinon on papotera au prochain Apéro Blockchain Samui (FR) !
+Pose des questions en créant un issue (en haut à gauche), si ce n'est pas totalement clair ou sinon on papotera au prochain Apéro Blockchain Samui (FR) !
 Des bisous !
