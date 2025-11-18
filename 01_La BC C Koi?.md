@@ -28,9 +28,12 @@ Là est **l'arnaque** ! Lorsque quelqu'un doit de l'argent à un autre, généra
 Là, non...🤷
 
 ### **Revenons à Bitcoin et cette notion simple de registre distribué.**
-Bitcoin est un système qui n'appartient à personne, conçu pour fonctionner sans actions humaines. Il est autonome grâce à tous ceux qui y participent. Il le font en faisant fonctionner des machines. Il fait exactement la même chose que ton banquier : écrire des **+** et des **-** dans un registre. La différence avec le registre du banquier, c'est que celui de Bitcoin est possédé par toute personne qui participe au **réseau**. Des milliers et des milliers de personnes. 
-Ainsi, l'intégralité du registre est possédé par des millions de personnes. Tu peux, toi-même, le télécharger ce registre et même écrire **+10 000 000 de BTC** pour toi. Mais comme tu serais le seul à avoir une version du fichier avec cette transaction, personne ne croira qu'elle est vraie.
-Ta transaction sera refusée et tout le monde saura vita eternam que tu es un sale tricheur.
+Bitcoin est un système qui n'appartient à personne, conçu pour fonctionner sans actions humaines. Il est autonome grâce à tous ceux qui y participent. 
+Ils le font en faisant fonctionner des machines. 
+Bitcoin fait exactement la même chose que ton banquier : écrire des **+** et des **-** dans un registre. La différence avec le registre du banquier, c'est que celui de Bitcoin est possédé par toute personne qui participe au **réseau**. Des milliers et des milliers de personnes.
+ 
+Ainsi, l'intégralité du registre est possédé par des millions de personnes. Tu peux, toi-même, le télécharger ce registre et même écrire **+10 000 000 de BTC** pour toi. Mais comme tu serais le seul à avoir une version du fichier avec cette transaction, personne ne croira qu'elle est vraie.Ta transaction sera refusée et tout le monde saura vita eternam que tu es un sale tricheur.
+
 Tu comprends maintenant pourquoi Bitcoin est bien plus sécurisé que n'importe quel système bancaire. C'est sa vérifiabilité qui lui confère un super pouvoir de fou. Va demander à l'écureuil si tu peux aller vérifier comment il s'y prend pour écrire et lire son registre et dis-moi ce qu'on te répondra, please. Ça m'intéresse !
 
 ### **Alors oui, on parle de Blockchain et il existe bien une chaîne de blocs, mais n'allons pas trop vite.**
