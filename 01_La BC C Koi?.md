@@ -42,31 +42,51 @@ Car en soit, nous devons rester focus! Il est très important de fixer cette not
 
 ### **Ce registre n'est pas modifiable, ni effaçable.**
 Toutes les informations inscrites dans la Blockchain sont littéralement gravées dans le marbre à jamais. Un ministre ne pourrait pas envoyer 10 000€ à sa femme ou son gosse pour un emploi fictif et dire ensuite que ça n'a jamais existé.
+
 Il est aussi **permissionless**. C'est-à-dire, que ta mère soit d'accord ou non, ce réseau est accessible à tous. Pas besoin de permission pour l'utiliser. Tout être humain, qu'il soit bon ou mauvais, ayant accès à Internet peut créer un **wallet** (l'équivalent de l'IBAN chez ton banquier).
+
 Pense aux oubliés du système bancaire. À toutes ces personnes dans le monde (Afrique, Inde, fin fond de la Chine) qui n'ont pas la possibilité d'avoir un compte en banque, déjà que c'est galère d'aller chercher de l'eau. 
 Pour eux, Bitcoin, n'est pas un simple actif spéculatif.
-On dit aussi qu'il est **pair-à-pair**. D'humain à humain et sans intermédiaire. Si tu me donnes un billet de 100€ contre mes remerciements, cette transaction est dite pair-à-pair (de main🫱🫲 à la main).
-Un transfert bancaire, comme vu plus haut, va être un déplacement de reconnaissance de dette transmise d'une banque à une autre envers un autre bénéficiaire. Et chacune pourra décider ou non de bien vouloir effectuer cette transaction. Mettons que tu souhaites faire un virement de 100€ depuis un compte français vers un compte à Miami, cette transaction va passer par le réseau **SWIFT** et c'est pour le coup plusieurs intermédiaires qui vont être ajoutés, et ton virement pourrait très bien passer par le Canada puis Washington puis Denver pour enfin arriver à Miami, où chacun prendra sa petite commission, et il faudra bien plusieurs jours avant que la tune soit sur le compte de mon pote Jean-Brandon🇺🇸.
+
+On dit aussi qu'il est **pair-à-pair**. D'humain à humain et sans intermédiaire. 
+Si tu me donnes un billet de 100€ contre mes remerciements, cette transaction est dite pair-à-pair (de main🫱🫲 à la main).
+Un transfert bancaire, comme vu plus haut, va être un déplacement de reconnaissance de dette transmise d'une banque à une autre envers un autre bénéficiaire. Et chacune pourra décider ou non de bien vouloir effectuer cette transaction. 
+Mettons que tu souhaites faire un virement de 100€ depuis un compte français vers un compte à Miami, cette transaction va passer par le réseau **SWIFT** et c'est pour le coup plusieurs intermédiaires qui vont être ajoutés, et ton virement pourrait très bien passer par le Canada puis Washington puis Denver pour enfin arriver à Miami, où chacun prendra sa petite commission, et il faudra bien plusieurs jours avant que la tune soit sur le compte de mon pote Jean-Brandon🇺🇸.
+
 Chez Bitcoin, la transaction se fait de **wallet à wallet** et prend quelques secondes, peu importe la distance, et personne au monde ne pourra empêcher l'exzcutiin de cette transaction.
 
 ### **Dernier point aujourd'hui : le wallet ! L'outil qui permet de posséder et distribuer ta crypto monnaie**
+
 Premièrement, **wallet = portefeuille**.
+
 Enlève tout de suite de ta tête l'image d'un portefeuille en cuir qui contient des billets nommés bitcoin. Tes Bitcoins ne quittent jamais la Blockchain, ils ne sont jamais contenus dans ton wallet.
+
 Pour connaître le solde de ton compte Bitcoin, à chaque fois, toutes les transactions de ton wallet sont recalculées. Jean-Caroline (+100 ; -20 ; -10) = 70.
+
 Remplace plutôt l'image du portefeuille par celle d'une clé.
 Ce n'est pas une clé qui permet de consulter le solde de ton compte, car comme on l'a vu plus haut, le registre Bitcoin est public. Tout le monde peut lire toutes les transactions et savoir le solde de tous les wallets qui existent. (On verra une prochaine fois le **pseudonymat**).
-Un wallet est une clé qui ne permet qu'une chose, à savoir permettre à celui qui la possède de créer une transaction pour le wallet concerné.
-Aller ! Tu peux même mettre **2 clés** à ton trousseau. Car en vrai il y'en a 2. On parle d'une **clé privée** et d'une **clé publique**.
-La **clé publique** est une suite de chiffres et lettres. C'est celle que tu vas envoyer à ton pote pour qu'il t'envoie des BTC (équivalent de l'IBAN de ton compte en banque). On parle aussi d'une adresse publique, un peu à la manière d'une adresse postale à laquelle on peut envoyer du courrier sauf qu'à cette adresse Bitcoin, on peut y envoyer de la tune.
+
+Un wallet est une clé qui ne permet qu'une chose : permettre à celui qui la possède de créer une transaction exclusivement pour le wallet concerné.
+
+Aller ! Tu peux même mettre **2 clés** à ton trousseau.
+Car en vrai il y'en a 2. On parle d'une **clé privée** et d'une **clé publique**.
+La **clé publique** est une suite de chiffres et lettres. C'est celle que tu vas envoyer à ton pote pour qu'il t'envoie des BTC (équivalent de l'IBAN de ton compte en banque).
+On parle aussi d'une adresse publique, un peu à la manière d'une adresse postale à laquelle on peut envoyer du courrier sauf qu'à cette adresse Bitcoin, on peut y envoyer de la tune.
+
 Exemple : la toute première adresse créée pour le premier wallet Bitcoin, celui du créateur de Bitcoin, Satoshi Nakamoto : **1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa**.
+
 Tu peux aller voir combien le gars a sur son compte en suivant ce lien : [https://www.blockchain.com/explorer/addresses/btc/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa](https://www.blockchain.com/explorer/addresses/btc/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa).
 
-La **clé privée**. C'est la chose à ne jamais divulguer. C'est le mot de passe à conserver précieusement et à ne jamais, au grand jamais, divulguer à qui que ce soit. Je le répète, il ne faut jamais divulguer la **clé privée** de ton wallet.
+La **clé privée**. C'est la chose à ne jamais divulguer. C'est le mot de passe à conserver précieusement et à ne jamais, au grand jamais, divulguer à qui que ce soit. 
+Je le répète, il ne faut jamais divulguer la **clé privée** de ton wallet.
 Exemple ici d'une fausse clé privée Bitcoin générée par IA : **5HueCGU8rMjxEXxiPuD5BDku4MkFqeZyd4dZ1jvhTVqvbTLvyTJ**.
 
-Il faut faire très attention à cette clé, car tu en es le seul responsable. Si jamais tu perds le mot de passe du compte en ligne de ta banque préférée, tu iras cliquer sur le bouton **"J'ai perdu mon mot de passe comme un gros débile"** et ça repartira !
+Il faut faire très attention à cette clé, car tu en es le seul responsable. 
+
+Si jamais tu perds le mot de passe du compte en ligne de ta banque préférée, tu iras cliquer sur le bouton **"J'ai perdu mon mot de passe comme un gros débile"** et ça repartira !
 Y a pas de ça chez Bitcoin &co.
-Ton ordinateur prend feu et tu veux réinstaller ce wallet sur un autre ordinateur. Si tu as perdu ta clé privée, c'est **baisé, José** ! Tu ne pourras plus jamais déplacer tes BTC.
+Ton ordinateur prend feu et tu veux réinstaller ce wallet sur un autre ordinateur. Si tu as perdu ta clé privée, c'est **baisé, José** ! 
+Tu ne pourras plus jamais déplacer tes BTC.
 
 ### **Le dernier des derniers points à voir ce mois-ci, c'est une phrase à retenir par cœur !**
 **"Not Your Key, Not Your Wallet !"**
@@ -75,14 +95,18 @@ Ton ordinateur prend feu et tu veux réinstaller ce wallet sur un autre ordinate
 Qu'est-ce que ça veut dire... ?
 
 Pour acheter du Bitcoin, tu peux créer ton wallet et demander à un pote de t'en vendre. Tu lui files **100$** et l'adresse de ton wallet (ta clé publique, hein 😜 !), et il te fera un transfert de **0,000982125319190728 BTC** au prix d'aujourd'hui.
-Seulement, tout le monde n'a pas un pote qui souhaite vendre du BTC. Mais heureusement, il y a **Findus** ! **FINDUS** !
+Seulement, tout le monde n'a pas un pote qui souhaite vendre du BTC. 
+Mais heureusement, il y a **Findus** ! **FINDUS** !
 Je mets la ref pour les jeunes : https://youtu.be/o-kpdoJIFWA?si=wE2M-XD8v4yJAQMq
 
-Il existe des entreprises qui vont te permettre d'échanger des **EUR** contre des BTC avec des frais de change, bien sûr. (Binance, Coinbase, Mexc, Gate, Kucoin, etc., il en existe plein). On les appelle des **CEX**, des exchanges centralisés. Pourquoi ? Parce que ces exchanges n'ont rien à voir avec la Blockchain.
+Il existe des entreprises qui vont te permettre d'échanger des **EUR** contre des BTC avec des frais de change, bien sûr. (Binance, Coinbase, Mexc, Gate, Kucoin, etc., il en existe plein). On les appelle des **CEX**, des exchanges centralisés. 
+Pourquoi ? Parce que ces exchanges n'ont rien à voir avec la Blockchain.
 Ces derniers vont prendre tes **EUR**, te créer une adresse Bitcoin sur laquelle ils te mettront du Bitcoin. Cette adresse, tu peux la partager à tes amis, et ils pourront t'envoyer du BTC, pas de soucis.
 Mais il y a quand même un gros problème. 
-Ce wallet qui t'est fourni par l'échange, tu vas y accéder par l'interface de ton **CEX** avec un nom d'utilisateur et mot de passe. Et depuis ton interface, tu pourras piloter tes BTC en m'en offrant 1 ou 2, par exemple, contre mes remerciements comme toujours.🫡😂 
+Ce wallet qui t'est fourni par l'exchange, tu vas y accéder par l'interface de ton **CEX** avec un nom d'utilisateur et mot de passe. Et depuis ton interface, tu pourras piloter tes BTC en m'en offrant 1 ou 2, par exemple, contre mes remerciements comme toujours.🫡😂 
+
 Reste que tu ne possèdes pas la clé privée de ce soit disant wallet. À nouveau, tout comme avec ton banquier, tu concèdes la sécurité de tes avoirs à un autre. Ce dernier peut faire une banqueroute, se faire hacker, faire croire qu'il s'est fait hacker alors qu'en vrai le patron s'est barré avec la caisse, à Koh Samui (ha, peut-être une bonne nouvelle finalement).
+
 Bref, posséder ces cryptos sur un échange centralisé, n'est pas une très bonne idée. Tous mes wallets sont des wallets dont je possède les clés privées. Si jamais j'achète de la crypto sur un **CEX**, immédiatement j'envoie ces cryptos sur mes wallets **on-chain**.
 
 **Not Your Key, Not Your Wallet !**
