@@ -8,7 +8,8 @@ Bitcoin, créé par un anonyme dont le pseudonyme est Satoshi Nakamoto (2009), e
 Le **trustless** !!! Qui signifie ne pas avoir besoin de faire confiance. 
 C'est mieux que la confiance, non?
 
-Bitcoin est donc un réseau décentralisé qui administre un registre **distribué**. 
+Bitcoin est donc un réseau décentralisé qui administre un registre **distribué**.
+
 **Ne stresse pas**, c'est très simple :
 Exemple ! Ton enculé banquier, il tient un registre te concernant. 
 Tu reçois ton salaire, le banquier écrit **+3000€**. Tu vas faire des courses, ton banquier écrit **-200€**.
