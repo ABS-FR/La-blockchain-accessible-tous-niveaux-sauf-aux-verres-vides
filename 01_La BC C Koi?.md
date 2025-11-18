@@ -1,10 +1,12 @@
 ### **La Blockchain, c'est quoi ?**
 En gros, c'est comme un système qui possède un arbitre incorruptible. Il note tout et personne ne peut l'acheter, le corromptre !⚖️
 On parle d'un système **décentralisé** et **autonome**.
+
 Bitcoin, créé par un anonyme dont le pseudonyme est Satoshi Nakamoto (2009), est un système **basé sur la blockchain** qui vise à **décentraliser** le système bancaire en réaction aux risques soulevés par la crise de 2008.
 
 ### **Qu'apporte la Blockchain au monde ?**
-Le **trustless** !!! Qui signifie ne pas avoir besoin de faire confiance. C'est mieux que la confiance, non?
+Le **trustless** !!! Qui signifie ne pas avoir besoin de faire confiance. 
+C'est mieux que la confiance, non?
 
 Bitcoin est donc un réseau décentralisé qui administre un registre **distribué**. 
 **Ne stresse pas**, c'est très simple :
